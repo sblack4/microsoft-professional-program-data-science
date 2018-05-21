@@ -27,7 +27,7 @@ are just managed versions of Open-Source Projects.
 1. Statistical Thinking for Data Science and Analytics 
 1. Exploring Data with Code - Intro to Python for Data Science
 1. Understand Core Data Science Concepts - [Data Science Essentials](06-data-science-essentials)
-1. Understand Machine Learning - Principles of Machine Learning
+1. Understand Machine Learning - [Principles of Machine Learning](07-principles-of-ml)
 1. Use Code to Manipulate and Model Data - Python
 1. Applied Machine Learning 
 1. Microsoft Professional Capstore: Data Science
@@ -49,10 +49,15 @@ https://github.com/MicrosoftLearning/QueryingT-SQL
 A great course on T-SQL (the kind of SQL that SQL-Server uses). Takes the user 
 from knowing nothing about SQL to doing all kinds of advanced queries!
 
+
 ### Analyze and Visualize Data with Excel
 https://courses.edx.org/courses/course-v1:Microsoft+DAT206x+5T2016/course/ 
 
 https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-Excel 
+
+This course is a great overview of Excel. Excel is not my favorite data-science tool but 
+sets the bar for spreadsheet applications. Excel has some pretty convenient features if you
+are working on a small data-set. 
 
 
 ### Statistical Thinking for Data Science and Analytics 

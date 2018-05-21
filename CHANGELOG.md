@@ -8,3 +8,8 @@ I can just collect everything in one repo! This will be that repo.
 #### Added 
 - folder for each course
 - links to other repos for courses (particularly mine)
+- content so that gitbook doesn't convert each directory to a file
+
+#### Created 
+- this 
+- gitbook https://mpp-data-science.gitbook.io/project/ 

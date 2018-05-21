@@ -1,4 +1,6 @@
 # Data Science Essentials
+DAT203.1x: Data Science Essentials
+
 https://github.com/MicrosoftLearning/Data-Science-Essentials 
 
 https://github.com/sblack4/Data-Science-Essentials
@@ -9,13 +11,11 @@ course I completed in late 2016
 ## Contents 
 
 ###  Before You Start
-- Introduction
-- Welcome
-- Pre-Course Survey
 - Course Introduction
 - Lab Overview
 - Setting Up Azure Machine Learning
 - Installing R or Python
+
 ### Module 1: Introduction to Data Science
 #### Principles of Data Science
 - What Is Data Science?
@@ -31,9 +31,8 @@ course I completed in late 2016
 - Creating a Machine Learning Model
 - Further Reading
 #### Lab
-- Lab  This content is graded
-- Lab Instructions
-- Lab Verification
+- Lab 
+
 ### Module 2: Probability and Statistics for Data Science
 #### Probability and Random Variables
 - Overview of Probability and Random Variables
