@@ -1,6 +1,7 @@
 # Introduction to Data Science 
 [Data Science Orientation](https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+5T2016/course/)
 
+also see https://github.com/MicrosoftLearning/Data-Science-Orientation 
 
 ## About 
 
