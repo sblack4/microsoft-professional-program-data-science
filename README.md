@@ -5,7 +5,9 @@ https://academy.microsoft.com/en-us/tracks/data-science
 ## About 
 in 2016-2017 I completed this program on [edx.org](https://edx.org)
 
-![Certificate of Completion](https://academy.microsoft.com/en-us/certificates/d5684e05-1963-412f-971a-86da6fb49a83)
+<a target="__blank" href ="https://academy.microsoft.com/en-us/tracks/data-science" style="display:flex; justify-content:center;">
+  <img src="static/MPP-DataScience-Cert.png" />
+</a>
 
 
 ## Contents 
