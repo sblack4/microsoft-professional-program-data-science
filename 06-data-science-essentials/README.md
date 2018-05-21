@@ -1,4 +1,4 @@
-# Understand Core Data Science Concepts - Data Science Essentials
+# Data Science Essentials
 https://github.com/MicrosoftLearning/Data-Science-Essentials 
 
 https://github.com/sblack4/Data-Science-Essentials
@@ -16,6 +16,7 @@ course I completed in late 2016
 - Lab Overview
 - Setting Up Azure Machine Learning
 - Installing R or Python
+
 ### Module 1: Introduction to Data Science
 #### Principles of Data Science
 - What Is Data Science?
@@ -34,6 +35,7 @@ course I completed in late 2016
 - Lab  This content is graded
 - Lab Instructions
 - Lab Verification
+
 ### Module 2: Probability and Statistics for Data Science
 #### Probability and Random Variables
 - Overview of Probability and Random Variables
@@ -60,6 +62,7 @@ course I completed in late 2016
 - Lab  This content is graded
 - Lab Instructions
 - Lab Verification
+
 ### Module 3: Simulation and Hypothesis Testing
 #### Simulation and Confidence Intervals
 - Introduction to Simulation and Hypothesis Testing
@@ -81,6 +84,7 @@ course I completed in late 2016
 - Lab  This content is graded
 - Lab Instructions
 - Lab Verification
+
 ### Module 4: Exploring and Visualizing Data
 #### Exploring Data
 - Introduction to Data Exploration
@@ -104,6 +108,7 @@ course I completed in late 2016
 - Lab  This content is graded
 - Lab Instructions
 - Lab Verification
+
 ### Module 5: Data Cleansing and Manipulation
 #### Data Ingestion and Flow
 - Overview of Data Ingestion and Flow
@@ -130,6 +135,7 @@ course I completed in late 2016
 - Lab  This content is graded
 - Lab Instructions
 - Lab Verification
+
 ### Module 6: Introduction to Machine Learning
 #### Getting Started with Machine Learning
 - Machine Learing Overview
@@ -150,6 +156,7 @@ course I completed in late 2016
 - Custom Code Considerations
 - Key Points and Further Reading
 #### Lab
+
 ### Final Exam and Survey
  Course Exam
  Post-Course Survey

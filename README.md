@@ -22,11 +22,11 @@ are just managed versions of Open-Source Projects.
 
 ###  In Brief 
 1. Introduction to Data Science
-1. Query Relational Data with Transact-SQL
 1. Analyze and Visualize Data with Excel
+1. Query Relational Data with Transact-SQL
 1. Statistical Thinking for Data Science and Analytics 
 1. Exploring Data with Code - Intro to Python for Data Science
-1. Understand Core Data Science Concepts - Data Science Essentials
+1. Understand Core Data Science Concepts - [Data Science Essentials](06-data-science-essentials)
 1. Understand Machine Learning - Principles of Machine Learning
 1. Use Code to Manipulate and Model Data - Python
 1. Applied Machine Learning 
