@@ -25,14 +25,31 @@ in 2016-2017 I completed this program on [edx.org](https://edx.org)
 ### Introduction to Data Science
 
 ### Query Relational Data with Transact-SQL
+https://courses.edx.org/courses/course-v1:Microsoft+DAT201x+5T2016/course/ 
+
 ### Analyze and Visualize Data with Excel
+https://courses.edx.org/courses/course-v1:Microsoft+DAT206x+5T2016/course/ 
+
 ### Statistical Thinking for Data Science and Analytics 
+https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2016/course/ 
+
 ### Exploring Data with Code - Intro to Python for Data Science
+https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+5T2016/course/ 
+
 ### Understand Core Data Science Concepts - Data Science Essentials
+https://courses.edx.org/courses/course-v1:Microsoft+DAT203.1x+5T2016/course/ 
+
 ### Understand Machine Learning - Principles of Machine Learning
+https://courses.edx.org/courses/course-v1:Microsoft+DAT203.2x+5T2016/course/
+
 ### Use Code to Manipulate and Model Data - Python
+https://courses.edx.org/courses/course-v1:Microsoft+DAT210x+5T2016/course/
+
 ### Applied Machine Learning 
+https://courses.edx.org/courses/course-v1:Microsoft+DAT203.3x+5T2016/course/
+
 ### Microsoft Professional Capstore: Data Science
+https://courses.edx.org/courses/course-v1:Microsoft+DAT102x+5T2016/course/ 
 
 ## Getting Started
 To get started submit and issue or make a pull request! 
