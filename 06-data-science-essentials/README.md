@@ -1,6 +1,8 @@
 # Understand Core Data Science Concepts - Data Science Essentials
 https://github.com/MicrosoftLearning/Data-Science-Essentials 
 
+https://github.com/sblack4/Data-Science-Essentials
+
 ## About
 course I completed in late 2016
 
