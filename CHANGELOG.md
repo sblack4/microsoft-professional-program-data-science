@@ -1,6 +1,11 @@
 # changelog 
 keep a changelog for humans 
 
+## 2018-05-22
+ADDED 
+- .github folder 
+- I want to make this accessable for modification by others :) 
+
 ## ORIGIN 2018-05-21 
 I wish I had notes from the data science course I took a couple of years ago....
 I can just collect everything in one repo! This will be that repo. 
